@@ -3,6 +3,9 @@
 NikeStore is a modern **ASP.NET Core MVC** web application that simulates a real-world **e-commerce platform** for Nike products.  
 It includes both **user** and **admin** interfaces for managing products, orders, and customer data efficiently.
 
+**Author:** Nguyễn Phan Đức Minh  
+**Role:** AI Researcher | Deep Learning, Machine Learning
+
 ---
 
 ## 🚀 Features
